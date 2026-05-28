@@ -37,12 +37,12 @@ This plugin will help you in your common GTM tasks.
 
 # Requirements
 
-- **Vue.** >= 3.0.0
+- **Vue.** >= 3.2.26
 - **Google Tag Manager account.** To send data to
 
 **Optional dependencies**
 
-- **Vue Router** >= 4.x - In order to use auto-tracking of screens
+- **Vue Router** >= 4.4.1 - In order to use auto-tracking of screens
 
 # Configuration
 
