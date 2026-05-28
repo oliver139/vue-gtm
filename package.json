@@ -87,8 +87,8 @@
     "vitest": "~2.0.5"
   },
   "peerDependencies": {
-    "vue": ">= 3.2.26 < 4.0.0",
-    "vue-router": ">= 4.4.1 < 6.0.0"
+    "vue": "^3.2.26",
+    "vue-router": "^4.4.1 || ^5.0.0"
   },
   "peerDependenciesMeta": {
     "vue-router": {
